@@ -1,6 +1,6 @@
 # Compras Local
 
-App Android para controle de compras de supermercado, com leitura de NFC-e via QR Code ou Código de Barras, listas de compras inteligentes, histórico de preços, comparação de mercados, análise de gastos e sincronização opcional com um backend NestJS ([MeuMercado](https://github.com/EduardoRadin/MeuMercado)).
+App Android para controle de compras de supermercado, com leitura de NFC-e via QR Code ou Código de Barras, listas de compras inteligentes, histórico de preços, comparação de mercados, análise de gastos e sincronização opcional com um backend NestJS ([MeuMercado](https://github.com/LuizChristani/MeuMercado)).
 
 Trabalho desenvolvido para a disciplina de Desenvolvimento Mobile da UNOESC.
 
@@ -231,13 +231,7 @@ Configurações do Android → Apps → Compras Local → Armazenamento → "Lim
 
 ---
 
-## Trabalho Acadêmico
 
-- **Instituição:** Universidade do Oeste de Santa Catarina (UNOESC)
-- **Disciplina:** Desenvolvimento Mobile
-- **Acadêmico:** Eduardo Radin
-
----
 
 ## Licença
 
